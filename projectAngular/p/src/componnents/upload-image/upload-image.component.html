@@ -1,0 +1,18 @@
+<div class="image-container">
+    <input type="file" (change)="onFileSelected($event)" accept="image/*">
+  
+    <select (change)="onClothSelected($event)">
+      @for(cloth of clothes; track cloth.name){
+        <option>{{ cloth.src }}</option>
+      }
+      </select>
+      
+    
+    <div class="canvas">
+      @if(babyImageSrc){
+      <img #babyImg [src]="babyImageSrc" class="baby-image">
+      <img #clothImg [src]="selectedCloth" class="cloth-overlay">
+      }
+    </div>
+  </div>
+  

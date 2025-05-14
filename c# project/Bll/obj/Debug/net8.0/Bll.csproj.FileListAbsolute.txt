@@ -1,0 +1,46 @@
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Bll.runtimeconfig.json
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Bll.dll
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.dll
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.genruntimeconfig.cache
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Dal.dll
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Dto.dll
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Ibll.dll
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Idal.dll
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Dal.pdb
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Dto.pdb
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Ibll.pdb
+C:\Users\moshi\Desktop\Bll\Bll\bin\Debug\net8.0\Idal.pdb
+C:\Users\moshi\Desktop\Bll\Bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Bll.deps.json
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Bll.runtimeconfig.json
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Bll.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Bll.pdb
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Dal.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Dto.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Ibll.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Idal.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Dal.pdb
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Dto.pdb
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Ibll.pdb
+C:\Handesaim\שנה ב\C#\Bll\Bll\bin\Debug\net8.0\Idal.pdb
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.pdb
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\Bll.genruntimeconfig.cache
+C:\Handesaim\שנה ב\C#\Bll\Bll\obj\Debug\net8.0\ref\Bll.dll

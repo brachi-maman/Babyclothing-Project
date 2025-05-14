@@ -1,0 +1,41 @@
+<h1 id="cart-title">Shopping Cart 🛒</h1>
+
+<table class="cart-table">
+  <thead>
+    <tr>
+      <th>Product Name</th>
+      <th>Description</th>
+      <th>Price</th>
+      <th>Date Added</th>
+      <th>Picture</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for(p of allProductsInCart; track p.productId) {
+      @if(cart.Qu[p.productId] && cart.Qu[p.productId] > 0) {
+        <tr>
+          <td>{{ p.productName }}</td>
+          <td>{{ p.description }}</td>
+          <td>{{ p.price | currency: 'ILS' }}</td>
+          <td>{{ p.addedDate }}</td>
+          <td>
+            <img [src]="p.imageUrl? 'https://localhost:7145' + p.imageUrl : 'path/to/default-image.jpg'"
+            alt="{{ p.productName }}" style="width: 100px; height: auto;" />
+          </td>
+          <td>
+            <button class="cart-btn" (click)="add1(p)">+</button>
+            <span class="quantity-display">{{ cart.Qu[p.productId] }}</span>
+            <button class="cart-btn" (click)="les1(p)">-</button>
+          </td>
+        </tr>
+      }
+    }
+  </tbody>
+</table>
+
+<button (click)="checkout()" class="checkout-btn">
+  <i class="fa-brands fa-cc-paypal"></i> 
+  Proceed to Checkout
+</button>
+

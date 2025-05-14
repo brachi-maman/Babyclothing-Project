@@ -1,0 +1,79 @@
+/* עיצוב כללי של הדף */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9; /* צבע רקע בהיר */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* עיצוב הקונטיינר של הטבלה */
+.sizes-table-container {
+  width: 80%;
+  margin: 2rem auto;
+  background-color: #fff; /* רקע לבן */
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* כותרת הטבלה */
+.sizes-table-container h2 {
+  font-size: 2rem;
+  color: #e27da0;
+  background: linear-gradient(90deg, #f9d5e5, #d4f4fa);
+  padding: 1rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+/* עיצוב הטבלה */
+.baby-sizes-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.baby-sizes-table th,
+.baby-sizes-table td {
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.baby-sizes-table th {
+  background-color: #cfe0e8; /* צבע פסטל עדין לכותרת */
+  color: #333;
+  font-weight: bold;
+}
+
+.baby-sizes-table td {
+  border-bottom: 1px solid #ddd;
+}
+
+.baby-sizes-table tr:nth-child(even) {
+  background-color: #f7f7f7; /* צבע רקע בהיר לשורות זוגיות */
+}
+
+.baby-sizes-table tr:hover {
+  background-color: #f1f1f1; /* צבע רקע בהיר כשמעבירים את העכבר על השורה */
+  cursor: pointer;
+}
+
+/* עיצוב מותאם למובייל */
+@media (max-width: 768px) {
+  .baby-sizes-table {
+    font-size: 0.9rem;
+  }
+
+  .sizes-table-container {
+    padding: 1rem;
+  }
+}

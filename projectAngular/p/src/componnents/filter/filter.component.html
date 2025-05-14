@@ -1,0 +1,73 @@
+<div class="div">
+    <label for="category">Category:</label>
+    <select id="category" [(ngModel)]="filterCriteria.categoryId">
+        <option [ngValue]="null">all</option>
+        @for (category of categories; track category.categoryId) {
+        <option [value]="category.categoryId">{{ category.categoryName }}</option>
+        }
+    </select>
+
+    <label for="company">Company:</label>
+    <select id="company" [(ngModel)]="filterCriteria.companyId">
+        <option [ngValue]="null">all</option>
+        @for (company of companies; track company.companyId) {
+        <option [value]="company.companyId">{{ company.companyName }}</option>
+        }
+    </select>
+
+    <label for="gender">Gender:</label>
+    <select id="gender" [(ngModel)]="filterCriteria.gender">
+        <option [ngValue]="null">all</option>
+        <option value="girl">girl</option>
+        <option value="boy">boy</option>
+    </select>
+
+    <label for="season">Season:</label>
+    <select id="season" [(ngModel)]="ChoosenSeason" (change)="filterProducts()">
+        <option [ngValue]="null">all</option>
+        <option value="winter">winter</option>
+        <option value="summer">summer</option>
+        <option value="trans">transition</option>
+    </select>
+
+    <label for="size">Size:</label>
+    <select id="size" [(ngModel)]="ChoosenSize" (change)="filterProducts()">
+        <option [ngValue]="null">all</option>
+        <option value="0-3">0-3</option>
+        <option value="3-6">3-6</option>
+        <option value="6-9">6-9</option>
+        <option value="09-12">09-12</option>
+        <option value="0-2y">0-2y</option>
+        <option value="1-2y">1-2y</option>
+        <option value="NB">NB</option>
+    </select>
+
+    <div class="price-range">
+        <label for="priceRange">Price Range:</label>
+        <input type="range" id="priceRange" min="{{ minPrice }}" max="{{ maxPrice }}" [(ngModel)]="selectedPriceRange" (input)="filterProducts()" step="1" />
+        <span>{{ minPrice }}</span>
+        <span>{{ selectedPriceRange }}</span>
+        <span>{{ maxPrice }}</span>
+    </div>
+
+    <button (click)="filterProducts()">Filter the prodducts</button>
+</div>
+
+<div class="product-container">
+    @for(p of allProducts; track p.productId){
+    <div class="product-card" (click)="more(p)">
+        <img class="product-image" [src]="p.imageUrl ? 'https://localhost:7145' + p.imageUrl : 'path/to/default-image.jpg'" alt="{{ p.productName }}" />
+        <div class="product-info">
+            <h4 [ngClass]=" p.stockQuantity <= 0 ? 'red' :'black'">{{p.productName}}</h4>
+            @if(p.stockQuantity <= 0){
+              <p class="out-of-stock">out of stock</p>
+            } 
+            <!-- <h3>{{ p.productName }}</h3> -->
+            <p>Price: {{ p.price + ""| price}}</p>
+        </div>
+    </div>
+    }
+
+</div>
+
+<router-outlet></router-outlet>

@@ -1,0 +1,28 @@
+C:\Users\moshi\Desktop\Bll\Dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\moshi\Desktop\Bll\Dto\bin\Debug\net8.0\Dto.runtimeconfig.json
+C:\Users\moshi\Desktop\Bll\Dto\bin\Debug\net8.0\Dto.dll
+C:\Users\moshi\Desktop\Bll\Dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.csproj.AssemblyReference.cache
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.dll
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\Dto.genruntimeconfig.cache
+C:\Users\moshi\Desktop\Bll\Dto\obj\Debug\net8.0\ref\Dto.dll
+C:\Handesaim\שנה ב\C#\Bll\Dto\bin\Debug\net8.0\Dto.deps.json
+C:\Handesaim\שנה ב\C#\Bll\Dto\bin\Debug\net8.0\Dto.runtimeconfig.json
+C:\Handesaim\שנה ב\C#\Bll\Dto\bin\Debug\net8.0\Dto.dll
+C:\Handesaim\שנה ב\C#\Bll\Dto\bin\Debug\net8.0\Dto.pdb
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.csproj.AssemblyReference.cache
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.dll
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.pdb
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\Dto.genruntimeconfig.cache
+C:\Handesaim\שנה ב\C#\Bll\Dto\obj\Debug\net8.0\ref\Dto.dll

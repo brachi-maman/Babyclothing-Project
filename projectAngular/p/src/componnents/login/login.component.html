@@ -1,0 +1,27 @@
+<div class="register-form">
+  <h2>Welcome Back! 👶 Login to Your Account</h2>
+  <form (ngSubmit)="loginC()">  
+    <div class="form-group">
+      <label for="email">📧 Email:</label>
+      <input type="email" id="email" [(ngModel)]="object.email" name="email" required placeholder="Enter your email" #mail="ngModel"
+      pattern="[A-Za-z.0-9]+@(gmail.com|co.il|net)">
+      @if(mail.invalid &&(mail.touched || mail.dirty))
+      {
+      <p >מייל לא תקין</p>
+      }
+    </div>
+    <div class="form-group">
+      <label for="passwordCustomer">🔑 Password:</label>
+      <input type="password" id="passwordCustomer" [(ngModel)]="object.password" name="passwordCustomer" placeholder="Enter your password"
+      maxlength="9"  #validTz="ngModel" 
+      required pattern="^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[\W_])(?!.*[\u0590-\u05FF]).{9}$">
+      @if( validTz.invalid && (validTz.touched || validTz.dirty)){
+        <div class="inValid-feedback">
+          <p [hidden]="!validTz.errors!['required']">שדה חובה</p>
+            <p [hidden]="!validTz.errors!['pattern']">קוד לא תקין. הקוד צריך לכלול בדיוק 9 תווים, כולל מספרים, אותיות אנגליות גדולות וקטנות ותו מיוחד.</p>
+        </div>
+      }
+    </div>
+    <button type="submit" class="submit-btn">Login</button>
+  </form>
+</div>

@@ -1,0 +1,53 @@
+# .gitignore for Angular + C# (ASP.NET Core)
+
+### Angular ###
+
+# Node modules
+node_modules/
+# Build output
+/dist/
+/out-tsc/
+# Compiled Angular files
+/.angular/
+
+### C# ###
+
+# ASP.NET Core
+/bin/
+/obj/
+# User-specific files
+.vscode/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# Windows Installer Setup files
+*.exe
+*.dll
+*.pdb
+*.app
+# IDE files
+.idea/
+
+# User files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# .NET Core SDK files
+project.lock.json
+project.fragment.lock.json
+
+# JetBrains Rider
+.idea/
+
+### Logs ###
+# Logs
+logs/
+*.log
+
+### OS generated files ###
+.DS_Store
+Thumbs.db

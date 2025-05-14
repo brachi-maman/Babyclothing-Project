@@ -1,0 +1,5481 @@
+{
+  "Version": 1,
+  "Hash": "QvZrY51iusihD468pB6gAMMJFRP0636FegAMPXNLKjc=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\08a22578-e495-45c6-8808-fd18d48a32b4_b1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/08a22578-e495-45c6-8808-fd18d48a32b4_b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8b6rm5fo55",
+      "Integrity": "TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\08a22578-e495-45c6-8808-fd18d48a32b4_b1.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mzns2083tm",
+      "Integrity": "jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\0f23f2fa-73cc-46d0-a452-fac02589af04_b3.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/0f23f2fa-73cc-46d0-a452-fac02589af04_b3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g7cxy2eovg",
+      "Integrity": "9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\0f23f2fa-73cc-46d0-a452-fac02589af04_b3.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "acd1qj8k8x",
+      "Integrity": "yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/1aebc481-ecc8-46f6-9e59-fa64c5546610_b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qwuge9usc",
+      "Integrity": "Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k5rbvr5abs",
+      "Integrity": "OPlG7F1zzE4Cuo9Q78by/CAsPlp3DQekgvZDcD7/SZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0m6479ouqb",
+      "Integrity": "eCWRxGascgN318Ef+LjCA7bHeiu1gwyUNHV0fppiPUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqlsfw4fcb",
+      "Integrity": "6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "acd1qj8k8x",
+      "Integrity": "yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2e6896e0-4b31-40ca-a17b-389499f6b281_6.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/2e6896e0-4b31-40ca-a17b-389499f6b281_6#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o6vdbvrxf3",
+      "Integrity": "IJZ1PakN7/Ajs6stTrEsGM33bHzhL37cka9o6MfBSyM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\2e6896e0-4b31-40ca-a17b-389499f6b281_6.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d7jyoak75g",
+      "Integrity": "uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\35a2f858-07cf-4ce4-8602-be12c3999758_55.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/35a2f858-07cf-4ce4-8602-be12c3999758_55#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "drcbtrhb7r",
+      "Integrity": "WW7uKoTuPaRPJ9cYKDc4raggWKuVRzU8flE0plaJqqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\35a2f858-07cf-4ce4-8602-be12c3999758_55.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mzns2083tm",
+      "Integrity": "jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.jpeg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qp9kkctdx",
+      "Integrity": "grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.jpeg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\48559ee6-27db-4d30-8e26-08a734914eae_99.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/48559ee6-27db-4d30-8e26-08a734914eae_99#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i5soqk3r1m",
+      "Integrity": "hr4HdnP8an8Bxnykff0O43wRQkxcXsSSYy/82mLibgQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\48559ee6-27db-4d30-8e26-08a734914eae_99.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqlsfw4fcb",
+      "Integrity": "6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/50ec75a0-0b37-4585-bcc8-d35710e436bf_b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8b6rm5fo55",
+      "Integrity": "TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5ce5f621-117c-42ec-a361-381ea9272c2b_h1.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/5ce5f621-117c-42ec-a361-381ea9272c2b_h1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n5odemgwll",
+      "Integrity": "i6FMPuQWJhlS5WId81EiQlL8pkaagpFRZSHdw7DAUYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\5ce5f621-117c-42ec-a361-381ea9272c2b_h1.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xghbpjnuj",
+      "Integrity": "G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5eb5e84d-feef-454f-bfd5-483508d77075_9.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/5eb5e84d-feef-454f-bfd5-483508d77075_9#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hfml9r1dl1",
+      "Integrity": "M1bZ+EtZ492ZTDcGq0bV61Qapi8QgxgCfrO2dIAdLWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\5eb5e84d-feef-454f-bfd5-483508d77075_9.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\61f81522-e368-49d7-a243-789a0e5787ce_b8.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/61f81522-e368-49d7-a243-789a0e5787ce_b8#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nynce9flgf",
+      "Integrity": "sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\61f81522-e368-49d7-a243-789a0e5787ce_b8.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\67c4f936-f87d-4bd1-a10c-fb234748e309_image.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/67c4f936-f87d-4bd1-a10c-fb234748e309_image#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xzttubwh9r",
+      "Integrity": "HWc0QeAcXup9L4iUBKiAIQeXYcMWpdU8pRmqhDCPuRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\67c4f936-f87d-4bd1-a10c-fb234748e309_image.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\6c56e7e4-1085-4a39-90e2-a8719801070f_b1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/6c56e7e4-1085-4a39-90e2-a8719801070f_b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qwuge9usc",
+      "Integrity": "Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\6c56e7e4-1085-4a39-90e2-a8719801070f_b1.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8b6rm5fo55",
+      "Integrity": "TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f1hss5t7jx",
+      "Integrity": "Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zz7iq9lmz7",
+      "Integrity": "/+Z7RBkB6EZ4Rw+kxNY9DayGB44jMPHVG60UH+7n52Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w2hnt5f7eh",
+      "Integrity": "yCgbhwsXNta6YVrW13/cK63OrW7pnn1S73h3PjAgqcQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\793356e2-635d-4b51-9c19-5479dd047566_22.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/793356e2-635d-4b51-9c19-5479dd047566_22#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h0qw4l6m55",
+      "Integrity": "sSO6cS1vZ35XCd5fCTAHucNnWNgHoii0aULDopVmhSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\793356e2-635d-4b51-9c19-5479dd047566_22.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91fvklaq3i",
+      "Integrity": "I3rl4QoCB/2WwJD7l/qaBNN0r/7aJpRS0EWeP0TcDVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lfnwoah2ub",
+      "Integrity": "X7EwtvD0gGC6k83SNq/t+NYd0JisEwYo4OnRmWsS9M0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\8b31aa09-1952-4707-b377-406bf35b6179_b6.jpeg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/8b31aa09-1952-4707-b377-406bf35b6179_b6#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qp9kkctdx",
+      "Integrity": "grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\8b31aa09-1952-4707-b377-406bf35b6179_b6.jpeg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xghbpjnuj",
+      "Integrity": "G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\900dea02-cb01-412f-8952-eae003d78699_h2.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/900dea02-cb01-412f-8952-eae003d78699_h2#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4z2n6ol58d",
+      "Integrity": "MNvWBPPeh2aCfrElDtdT9CzTwkS6h/V6yQGslxGdGC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\900dea02-cb01-412f-8952-eae003d78699_h2.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75by6l55zt",
+      "Integrity": "Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g7cxy2eovg",
+      "Integrity": "9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbiaggm66f",
+      "Integrity": "QqvOYx1sAX5xsLQoDEzp5BMc8PgPCAImjP/uVSj3+/U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nynce9flgf",
+      "Integrity": "sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a4100d28-7196-4990-a8eb-90c7777927eb_b5.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/a4100d28-7196-4990-a8eb-90c7777927eb_b5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qus5rxlah3",
+      "Integrity": "UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\a4100d28-7196-4990-a8eb-90c7777927eb_b5.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x26n7dhi2b",
+      "Integrity": "icl84dEfwzcvztAUdNCMTcaaSRPc1Zaxi41F7WhyvVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1c3eocrtd8",
+      "Integrity": "nz/e+stviMvqBjhHNBWqVQ7O1vYW17uDQkmRnsbPmp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75by6l55zt",
+      "Integrity": "Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ucrxy92fh3",
+      "Integrity": "QvHf1ED9y27nssNvO7u5EsmZc89+7bW1kAyKzMgW0G4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b22a3593-c849-4aee-9aea-b96f9afa1331_11.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/b22a3593-c849-4aee-9aea-b96f9afa1331_11#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y14cu0nojn",
+      "Integrity": "ehJX8cqpzb3tfqm3OVgXxqOxy+Yz9B0T9NxzsU1w/TM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\b22a3593-c849-4aee-9aea-b96f9afa1331_11.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b496c4d0-90ba-48c7-82be-41e1835ca374_b4.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/b496c4d0-90ba-48c7-82be-41e1835ca374_b4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efexqqoahk",
+      "Integrity": "SsnvqBhxjNpYekpQ2UcVjH0jfPhK8HKlQhPOY9XZKhU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\b496c4d0-90ba-48c7-82be-41e1835ca374_b4.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/ba38657b-4389-4d89-982f-02cd00e2ad6d_b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8b6rm5fo55",
+      "Integrity": "TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7skykngf64",
+      "Integrity": "t62aAk7R9D4GbirFeagAco1xoldalzODhUJDyICs32U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qus5rxlah3",
+      "Integrity": "UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/de7f4673-cc10-485b-ad3d-c5d62390e34a_b7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f1hss5t7jx",
+      "Integrity": "Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hin6hrovfs",
+      "Integrity": "dwbmpHLikvHfo3MP/1SQWMZyu/9yUaYjOiKYdF+mfFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\e66373c8-95a1-4a31-babe-e1c03da58107_b2.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/e66373c8-95a1-4a31-babe-e1c03da58107_b2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s2vcvzzsop",
+      "Integrity": "VEPCQDjPZsArKRaWXvzh58yyILYUmNjv7aCqDgCIGp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\e66373c8-95a1-4a31-babe-e1c03da58107_b2.jpg"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "emekfjwq0o",
+      "Integrity": "BqKdXjCLLUBzcDMJU82QTfWbISW4GqL0c6P5MVYp3m4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.webp"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d7jyoak75g",
+      "Integrity": "uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.png"
+    },
+    {
+      "Identity": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "upload/fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nwylusxv3q",
+      "Integrity": "Cb5vhoax4PGxyqDkxMi0u/nFCaYNmfuqjT5dQJnwAic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.webp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "upload/08a22578-e495-45c6-8808-fd18d48a32b4_b1.8b6rm5fo55.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\08a22578-e495-45c6-8808-fd18d48a32b4_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:32:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8b6rm5fo55"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/08a22578-e495-45c6-8808-fd18d48a32b4_b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/08a22578-e495-45c6-8808-fd18d48a32b4_b1.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\08a22578-e495-45c6-8808-fd18d48a32b4_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:32:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.mzns2083tm.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:04:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mzns2083tm"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\0e56c5f5-d9a6-4a51-9de2-9949112914fa_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:04:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/0f23f2fa-73cc-46d0-a452-fac02589af04_b3.g7cxy2eovg.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\0f23f2fa-73cc-46d0-a452-fac02589af04_b3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g7cxy2eovg"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/0f23f2fa-73cc-46d0-a452-fac02589af04_b3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/0f23f2fa-73cc-46d0-a452-fac02589af04_b3.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\0f23f2fa-73cc-46d0-a452-fac02589af04_b3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.acd1qj8k8x.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:40:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "acd1qj8k8x"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\1391b31e-1dbc-444d-a1a1-55a184d3f63b_b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:40:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.6qwuge9usc.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qwuge9usc"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y="
+        }
+      ]
+    },
+    {
+      "Route": "upload/1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\1aebc481-ecc8-46f6-9e59-fa64c5546610_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.k5rbvr5abs.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OPlG7F1zzE4Cuo9Q78by/CAsPlp3DQekgvZDcD7/SZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k5rbvr5abs"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OPlG7F1zzE4Cuo9Q78by/CAsPlp3DQekgvZDcD7/SZY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2938ab72-dc9f-4a7b-9f6e-55c8c23e61d5_44.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OPlG7F1zzE4Cuo9Q78by/CAsPlp3DQekgvZDcD7/SZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OPlG7F1zzE4Cuo9Q78by/CAsPlp3DQekgvZDcD7/SZY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).0m6479ouqb.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "982398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eCWRxGascgN318Ef+LjCA7bHeiu1gwyUNHV0fppiPUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0m6479ouqb"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eCWRxGascgN318Ef+LjCA7bHeiu1gwyUNHV0fppiPUI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2a9419e3-1f72-461d-86f2-15d7f31c8061_אוסף השראה (7).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "982398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eCWRxGascgN318Ef+LjCA7bHeiu1gwyUNHV0fppiPUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eCWRxGascgN318Ef+LjCA7bHeiu1gwyUNHV0fppiPUI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 11:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.uqlsfw4fcb.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 11:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqlsfw4fcb"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/2abaaffd-401b-4b92-a2e2-71da27c7163e_54691973-fd24-496f-a164-18a5e69df466.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.acd1qj8k8x.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "acd1qj8k8x"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2b4f4b22-7250-47b1-8c20-799da4abd8f6_b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yv92nd0SB8UUpxK8w3L1IsWQnDM6AAyVJOiME7YkkXQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2e6896e0-4b31-40ca-a17b-389499f6b281_6.o6vdbvrxf3.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2e6896e0-4b31-40ca-a17b-389499f6b281_6.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJZ1PakN7/Ajs6stTrEsGM33bHzhL37cka9o6MfBSyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:17:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6vdbvrxf3"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/2e6896e0-4b31-40ca-a17b-389499f6b281_6.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJZ1PakN7/Ajs6stTrEsGM33bHzhL37cka9o6MfBSyM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/2e6896e0-4b31-40ca-a17b-389499f6b281_6.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\2e6896e0-4b31-40ca-a17b-389499f6b281_6.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJZ1PakN7/Ajs6stTrEsGM33bHzhL37cka9o6MfBSyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:17:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJZ1PakN7/Ajs6stTrEsGM33bHzhL37cka9o6MfBSyM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.d7jyoak75g.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:10:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d7jyoak75g"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\3483157d-aff1-4233-a028-cae687761c14_01913ae458d7ca6a166870d1a4a8deff.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:10:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/35a2f858-07cf-4ce4-8602-be12c3999758_55.drcbtrhb7r.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\35a2f858-07cf-4ce4-8602-be12c3999758_55.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WW7uKoTuPaRPJ9cYKDc4raggWKuVRzU8flE0plaJqqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:40:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "drcbtrhb7r"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/35a2f858-07cf-4ce4-8602-be12c3999758_55.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WW7uKoTuPaRPJ9cYKDc4raggWKuVRzU8flE0plaJqqc="
+        }
+      ]
+    },
+    {
+      "Route": "upload/35a2f858-07cf-4ce4-8602-be12c3999758_55.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\35a2f858-07cf-4ce4-8602-be12c3999758_55.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WW7uKoTuPaRPJ9cYKDc4raggWKuVRzU8flE0plaJqqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:40:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WW7uKoTuPaRPJ9cYKDc4raggWKuVRzU8flE0plaJqqc="
+        }
+      ]
+    },
+    {
+      "Route": "upload/3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.mzns2083tm.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:12:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mzns2083tm"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\3def786a-3859-4ac4-8b60-061a89748275_a4d54e_7b9429a95fd04377a5cde32e0fd4e934~mv2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:12:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhVgUEZNKNbWHp/yJN/qqzstEgoR+9XjAr+c8JLsNDY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.6qp9kkctdx.jpeg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qp9kkctdx"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.jpeg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\40cb752c-42dd-4d1f-b6dd-31712f84e0ae_b6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/48559ee6-27db-4d30-8e26-08a734914eae_99.i5soqk3r1m.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\48559ee6-27db-4d30-8e26-08a734914eae_99.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hr4HdnP8an8Bxnykff0O43wRQkxcXsSSYy/82mLibgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:35:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5soqk3r1m"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/48559ee6-27db-4d30-8e26-08a734914eae_99.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hr4HdnP8an8Bxnykff0O43wRQkxcXsSSYy/82mLibgQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/48559ee6-27db-4d30-8e26-08a734914eae_99.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\48559ee6-27db-4d30-8e26-08a734914eae_99.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hr4HdnP8an8Bxnykff0O43wRQkxcXsSSYy/82mLibgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:35:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hr4HdnP8an8Bxnykff0O43wRQkxcXsSSYy/82mLibgQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:11:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.uqlsfw4fcb.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:11:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqlsfw4fcb"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/4b319a68-6e1d-49a9-b473-20ba410d273b_54691973-fd24-496f-a164-18a5e69df466.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6rNs0ejV1R6PzYH3dRrkBaMCpXLrziUloDlOVGnMOTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.8b6rm5fo55.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8b6rm5fo55"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\50ec75a0-0b37-4585-bcc8-d35710e436bf_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/5ce5f621-117c-42ec-a361-381ea9272c2b_h1.n5odemgwll.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5ce5f621-117c-42ec-a361-381ea9272c2b_h1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i6FMPuQWJhlS5WId81EiQlL8pkaagpFRZSHdw7DAUYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:34:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n5odemgwll"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/5ce5f621-117c-42ec-a361-381ea9272c2b_h1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i6FMPuQWJhlS5WId81EiQlL8pkaagpFRZSHdw7DAUYY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/5ce5f621-117c-42ec-a361-381ea9272c2b_h1.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5ce5f621-117c-42ec-a361-381ea9272c2b_h1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i6FMPuQWJhlS5WId81EiQlL8pkaagpFRZSHdw7DAUYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:34:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i6FMPuQWJhlS5WId81EiQlL8pkaagpFRZSHdw7DAUYY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.1xghbpjnuj.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xghbpjnuj"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5e5e6c96-c4c2-4a16-b350-77d87dc2d1b3_blanket-for-baby-800x800.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/5eb5e84d-feef-454f-bfd5-483508d77075_9.hfml9r1dl1.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5eb5e84d-feef-454f-bfd5-483508d77075_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1bZ+EtZ492ZTDcGq0bV61Qapi8QgxgCfrO2dIAdLWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfml9r1dl1"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/5eb5e84d-feef-454f-bfd5-483508d77075_9.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M1bZ+EtZ492ZTDcGq0bV61Qapi8QgxgCfrO2dIAdLWE="
+        }
+      ]
+    },
+    {
+      "Route": "upload/5eb5e84d-feef-454f-bfd5-483508d77075_9.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\5eb5e84d-feef-454f-bfd5-483508d77075_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1bZ+EtZ492ZTDcGq0bV61Qapi8QgxgCfrO2dIAdLWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M1bZ+EtZ492ZTDcGq0bV61Qapi8QgxgCfrO2dIAdLWE="
+        }
+      ]
+    },
+    {
+      "Route": "upload/61f81522-e368-49d7-a243-789a0e5787ce_b8.nynce9flgf.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\61f81522-e368-49d7-a243-789a0e5787ce_b8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:10:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nynce9flgf"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/61f81522-e368-49d7-a243-789a0e5787ce_b8.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw="
+        }
+      ]
+    },
+    {
+      "Route": "upload/61f81522-e368-49d7-a243-789a0e5787ce_b8.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\61f81522-e368-49d7-a243-789a0e5787ce_b8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:10:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw="
+        }
+      ]
+    },
+    {
+      "Route": "upload/67c4f936-f87d-4bd1-a10c-fb234748e309_image.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\67c4f936-f87d-4bd1-a10c-fb234748e309_image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWc0QeAcXup9L4iUBKiAIQeXYcMWpdU8pRmqhDCPuRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HWc0QeAcXup9L4iUBKiAIQeXYcMWpdU8pRmqhDCPuRI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/67c4f936-f87d-4bd1-a10c-fb234748e309_image.xzttubwh9r.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\67c4f936-f87d-4bd1-a10c-fb234748e309_image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWc0QeAcXup9L4iUBKiAIQeXYcMWpdU8pRmqhDCPuRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzttubwh9r"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/67c4f936-f87d-4bd1-a10c-fb234748e309_image.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HWc0QeAcXup9L4iUBKiAIQeXYcMWpdU8pRmqhDCPuRI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/6c56e7e4-1085-4a39-90e2-a8719801070f_b1.6qwuge9usc.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\6c56e7e4-1085-4a39-90e2-a8719801070f_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:11:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qwuge9usc"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/6c56e7e4-1085-4a39-90e2-a8719801070f_b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y="
+        }
+      ]
+    },
+    {
+      "Route": "upload/6c56e7e4-1085-4a39-90e2-a8719801070f_b1.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\6c56e7e4-1085-4a39-90e2-a8719801070f_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:11:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lhnk88zdKyV4OKSMjTYtrxTRcI6n45woWhfMsScul1Y="
+        }
+      ]
+    },
+    {
+      "Route": "upload/72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.8b6rm5fo55.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:12:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8b6rm5fo55"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\72e8f35d-6dca-460f-a5f2-7210a2bcdd4c_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:12:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.f1hss5t7jx.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f1hss5t7jx"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\74ce5c9a-91ac-4c37-a9d4-3dbddb1aecb0_b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/+Z7RBkB6EZ4Rw+kxNY9DayGB44jMPHVG60UH+7n52Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/+Z7RBkB6EZ4Rw+kxNY9DayGB44jMPHVG60UH+7n52Y="
+        }
+      ]
+    },
+    {
+      "Route": "upload/75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.zz7iq9lmz7.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/+Z7RBkB6EZ4Rw+kxNY9DayGB44jMPHVG60UH+7n52Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zz7iq9lmz7"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/75a3eb79-14fd-40b3-8f10-0492feb67461_תמונה baby.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/+Z7RBkB6EZ4Rw+kxNY9DayGB44jMPHVG60UH+7n52Y="
+        }
+      ]
+    },
+    {
+      "Route": "upload/77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.w2hnt5f7eh.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yCgbhwsXNta6YVrW13/cK63OrW7pnn1S73h3PjAgqcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w2hnt5f7eh"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yCgbhwsXNta6YVrW13/cK63OrW7pnn1S73h3PjAgqcQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\77f9bf4e-fd7a-4607-947a-9848c24c77a3_h3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yCgbhwsXNta6YVrW13/cK63OrW7pnn1S73h3PjAgqcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yCgbhwsXNta6YVrW13/cK63OrW7pnn1S73h3PjAgqcQ="
+        }
+      ]
+    },
+    {
+      "Route": "upload/793356e2-635d-4b51-9c19-5479dd047566_22.h0qw4l6m55.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\793356e2-635d-4b51-9c19-5479dd047566_22.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sSO6cS1vZ35XCd5fCTAHucNnWNgHoii0aULDopVmhSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h0qw4l6m55"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/793356e2-635d-4b51-9c19-5479dd047566_22.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sSO6cS1vZ35XCd5fCTAHucNnWNgHoii0aULDopVmhSg="
+        }
+      ]
+    },
+    {
+      "Route": "upload/793356e2-635d-4b51-9c19-5479dd047566_22.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\793356e2-635d-4b51-9c19-5479dd047566_22.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sSO6cS1vZ35XCd5fCTAHucNnWNgHoii0aULDopVmhSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sSO6cS1vZ35XCd5fCTAHucNnWNgHoii0aULDopVmhSg="
+        }
+      ]
+    },
+    {
+      "Route": "upload/7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.91fvklaq3i.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3rl4QoCB/2WwJD7l/qaBNN0r/7aJpRS0EWeP0TcDVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:33:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91fvklaq3i"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3rl4QoCB/2WwJD7l/qaBNN0r/7aJpRS0EWeP0TcDVo="
+        }
+      ]
+    },
+    {
+      "Route": "upload/7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\7dd2709c-f8bd-4cbf-87dc-06b86ceedcb7_2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3rl4QoCB/2WwJD7l/qaBNN0r/7aJpRS0EWeP0TcDVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:33:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3rl4QoCB/2WwJD7l/qaBNN0r/7aJpRS0EWeP0TcDVo="
+        }
+      ]
+    },
+    {
+      "Route": "upload/85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.lfnwoah2ub.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X7EwtvD0gGC6k83SNq/t+NYd0JisEwYo4OnRmWsS9M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:37:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lfnwoah2ub"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X7EwtvD0gGC6k83SNq/t+NYd0JisEwYo4OnRmWsS9M0="
+        }
+      ]
+    },
+    {
+      "Route": "upload/85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\85b158b0-b5f3-4f7a-bb5d-6fec03012eda_b10.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X7EwtvD0gGC6k83SNq/t+NYd0JisEwYo4OnRmWsS9M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:37:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X7EwtvD0gGC6k83SNq/t+NYd0JisEwYo4OnRmWsS9M0="
+        }
+      ]
+    },
+    {
+      "Route": "upload/8b31aa09-1952-4707-b377-406bf35b6179_b6.6qp9kkctdx.jpeg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\8b31aa09-1952-4707-b377-406bf35b6179_b6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:41:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qp9kkctdx"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/8b31aa09-1952-4707-b377-406bf35b6179_b6.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/8b31aa09-1952-4707-b377-406bf35b6179_b6.jpeg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\8b31aa09-1952-4707-b377-406bf35b6179_b6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:41:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-grHgVYoiMz2UJ0l5ZPj/SBM1Pe6zAJqWzR/0PW4BLOM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.1xghbpjnuj.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xghbpjnuj"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\8c9b2729-661f-4cad-9bc2-3da60cdfed19_blanket-for-baby-800x800.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7HfLXtdYG7kmOZhSS9L3eBR5BSZwgE7g/S0QCShjPM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/900dea02-cb01-412f-8952-eae003d78699_h2.4z2n6ol58d.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\900dea02-cb01-412f-8952-eae003d78699_h2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MNvWBPPeh2aCfrElDtdT9CzTwkS6h/V6yQGslxGdGC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4z2n6ol58d"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/900dea02-cb01-412f-8952-eae003d78699_h2.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNvWBPPeh2aCfrElDtdT9CzTwkS6h/V6yQGslxGdGC4="
+        }
+      ]
+    },
+    {
+      "Route": "upload/900dea02-cb01-412f-8952-eae003d78699_h2.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\900dea02-cb01-412f-8952-eae003d78699_h2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MNvWBPPeh2aCfrElDtdT9CzTwkS6h/V6yQGslxGdGC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNvWBPPeh2aCfrElDtdT9CzTwkS6h/V6yQGslxGdGC4="
+        }
+      ]
+    },
+    {
+      "Route": "upload/928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.75by6l55zt.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 11:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75by6l55zt"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\928b3ab6-84ab-4ebb-aef1-169f126486c4_86b60fada5de125f483e04bec6b696da.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 11:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.g7cxy2eovg.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:42:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g7cxy2eovg"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\9b659b57-ba61-45ab-b8c4-f2ad24c0a4be_b3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:42:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LmD4Ldowdyj2XB+BXIlpPAG/P8m9C5VcD1Ug83vjsI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.mbiaggm66f.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QqvOYx1sAX5xsLQoDEzp5BMc8PgPCAImjP/uVSj3+/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbiaggm66f"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QqvOYx1sAX5xsLQoDEzp5BMc8PgPCAImjP/uVSj3+/U="
+        }
+      ]
+    },
+    {
+      "Route": "upload/9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\9dbc27ff-c94d-4ac6-b378-4d4f093ce209_b9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QqvOYx1sAX5xsLQoDEzp5BMc8PgPCAImjP/uVSj3+/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QqvOYx1sAX5xsLQoDEzp5BMc8PgPCAImjP/uVSj3+/U="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.nynce9flgf.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nynce9flgf"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a2e9ac04-79e6-44c9-a96a-d5b4539de2d0_b8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTkXRQnb55yN0Pa++8xXK2ydhE6x8tOvKuwYUGtFJZw="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a4100d28-7196-4990-a8eb-90c7777927eb_b5.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a4100d28-7196-4990-a8eb-90c7777927eb_b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:39:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a4100d28-7196-4990-a8eb-90c7777927eb_b5.qus5rxlah3.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a4100d28-7196-4990-a8eb-90c7777927eb_b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:39:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qus5rxlah3"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/a4100d28-7196-4990-a8eb-90c7777927eb_b5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icl84dEfwzcvztAUdNCMTcaaSRPc1Zaxi41F7WhyvVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icl84dEfwzcvztAUdNCMTcaaSRPc1Zaxi41F7WhyvVI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.x26n7dhi2b.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icl84dEfwzcvztAUdNCMTcaaSRPc1Zaxi41F7WhyvVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x26n7dhi2b"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/a649dd6e-d580-4ab4-9619-c21a0e796b4e_tal-zelicovitch-12_a3781949-8066-463e-be88-36beeb1ec696.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icl84dEfwzcvztAUdNCMTcaaSRPc1Zaxi41F7WhyvVI="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.1c3eocrtd8.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nz/e+stviMvqBjhHNBWqVQ7O1vYW17uDQkmRnsbPmp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:45:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1c3eocrtd8"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nz/e+stviMvqBjhHNBWqVQ7O1vYW17uDQkmRnsbPmp8="
+        }
+      ]
+    },
+    {
+      "Route": "upload/a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\a6d0a9e5-d48c-4388-826c-49ec15f3441d_1010.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nz/e+stviMvqBjhHNBWqVQ7O1vYW17uDQkmRnsbPmp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:45:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nz/e+stviMvqBjhHNBWqVQ7O1vYW17uDQkmRnsbPmp8="
+        }
+      ]
+    },
+    {
+      "Route": "upload/aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.75by6l55zt.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:10:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75by6l55zt"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\aef07743-57f4-41b1-ad1f-0ff31426d703_86b60fada5de125f483e04bec6b696da.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 14:10:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fck0Rg0fBLyb+jcCVKoD2PuxJG8/ubM7VT8k9naCljk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvHf1ED9y27nssNvO7u5EsmZc89+7bW1kAyKzMgW0G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:04:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvHf1ED9y27nssNvO7u5EsmZc89+7bW1kAyKzMgW0G4="
+        }
+      ]
+    },
+    {
+      "Route": "upload/b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.ucrxy92fh3.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvHf1ED9y27nssNvO7u5EsmZc89+7bW1kAyKzMgW0G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:04:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucrxy92fh3"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/b1dbcc25-34d0-4f56-8044-d2b12eee30d8_6895265a5dfdd8a44aa043645b566dbd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvHf1ED9y27nssNvO7u5EsmZc89+7bW1kAyKzMgW0G4="
+        }
+      ]
+    },
+    {
+      "Route": "upload/b22a3593-c849-4aee-9aea-b96f9afa1331_11.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b22a3593-c849-4aee-9aea-b96f9afa1331_11.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehJX8cqpzb3tfqm3OVgXxqOxy+Yz9B0T9NxzsU1w/TM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:41:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehJX8cqpzb3tfqm3OVgXxqOxy+Yz9B0T9NxzsU1w/TM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/b22a3593-c849-4aee-9aea-b96f9afa1331_11.y14cu0nojn.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b22a3593-c849-4aee-9aea-b96f9afa1331_11.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehJX8cqpzb3tfqm3OVgXxqOxy+Yz9B0T9NxzsU1w/TM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:41:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y14cu0nojn"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/b22a3593-c849-4aee-9aea-b96f9afa1331_11.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehJX8cqpzb3tfqm3OVgXxqOxy+Yz9B0T9NxzsU1w/TM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/b496c4d0-90ba-48c7-82be-41e1835ca374_b4.efexqqoahk.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b496c4d0-90ba-48c7-82be-41e1835ca374_b4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SsnvqBhxjNpYekpQ2UcVjH0jfPhK8HKlQhPOY9XZKhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:14:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efexqqoahk"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/b496c4d0-90ba-48c7-82be-41e1835ca374_b4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SsnvqBhxjNpYekpQ2UcVjH0jfPhK8HKlQhPOY9XZKhU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/b496c4d0-90ba-48c7-82be-41e1835ca374_b4.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\b496c4d0-90ba-48c7-82be-41e1835ca374_b4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SsnvqBhxjNpYekpQ2UcVjH0jfPhK8HKlQhPOY9XZKhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:14:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SsnvqBhxjNpYekpQ2UcVjH0jfPhK8HKlQhPOY9XZKhU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.8b6rm5fo55.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:34:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8b6rm5fo55"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\ba38657b-4389-4d89-982f-02cd00e2ad6d_b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:34:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TK2iJjejcxXSXUQbbIdQ4ks605GI8j0/O/t/WfGDElU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.7skykngf64.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t62aAk7R9D4GbirFeagAco1xoldalzODhUJDyICs32U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:35:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7skykngf64"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t62aAk7R9D4GbirFeagAco1xoldalzODhUJDyICs32U="
+        }
+      ]
+    },
+    {
+      "Route": "upload/babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\babe53d0-bc66-4100-8953-6aa3fc71ef2d_ho2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t62aAk7R9D4GbirFeagAco1xoldalzODhUJDyICs32U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 08:35:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t62aAk7R9D4GbirFeagAco1xoldalzODhUJDyICs32U="
+        }
+      ]
+    },
+    {
+      "Route": "upload/d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.qus5rxlah3.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qus5rxlah3"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/d8944a61-d8c4-40c3-bee5-642c88f3ebd9_b5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UhBvbUBjcoMgyV22ywG9+gSE9UqBJnTQElo+t4U3ISM="
+        }
+      ]
+    },
+    {
+      "Route": "upload/de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.f1hss5t7jx.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:44:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f1hss5t7jx"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\de7f4673-cc10-485b-ad3d-c5d62390e34a_b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:44:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q6WGuiaIBUh/Ku8tRAqfbn3gVsrSDOLKrxfgFsQDHVY="
+        }
+      ]
+    },
+    {
+      "Route": "upload/decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.hin6hrovfs.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dwbmpHLikvHfo3MP/1SQWMZyu/9yUaYjOiKYdF+mfFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:16:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hin6hrovfs"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dwbmpHLikvHfo3MP/1SQWMZyu/9yUaYjOiKYdF+mfFU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\decbc8bb-4370-4077-a10c-b1e6ee9734eb_1_75755ce5-8f30-4105-a485-858120537155.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dwbmpHLikvHfo3MP/1SQWMZyu/9yUaYjOiKYdF+mfFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:16:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dwbmpHLikvHfo3MP/1SQWMZyu/9yUaYjOiKYdF+mfFU="
+        }
+      ]
+    },
+    {
+      "Route": "upload/e66373c8-95a1-4a31-babe-e1c03da58107_b2.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\e66373c8-95a1-4a31-babe-e1c03da58107_b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VEPCQDjPZsArKRaWXvzh58yyILYUmNjv7aCqDgCIGp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:05:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VEPCQDjPZsArKRaWXvzh58yyILYUmNjv7aCqDgCIGp8="
+        }
+      ]
+    },
+    {
+      "Route": "upload/e66373c8-95a1-4a31-babe-e1c03da58107_b2.s2vcvzzsop.jpg",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\e66373c8-95a1-4a31-babe-e1c03da58107_b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VEPCQDjPZsArKRaWXvzh58yyILYUmNjv7aCqDgCIGp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:05:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2vcvzzsop"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/e66373c8-95a1-4a31-babe-e1c03da58107_b2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VEPCQDjPZsArKRaWXvzh58yyILYUmNjv7aCqDgCIGp8="
+        }
+      ]
+    },
+    {
+      "Route": "upload/eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.emekfjwq0o.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqKdXjCLLUBzcDMJU82QTfWbISW4GqL0c6P5MVYp3m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:31:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "emekfjwq0o"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqKdXjCLLUBzcDMJU82QTfWbISW4GqL0c6P5MVYp3m4="
+        }
+      ]
+    },
+    {
+      "Route": "upload/eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\eaecb5ef-beb2-4ed6-86a3-4381f88f43bf_5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqKdXjCLLUBzcDMJU82QTfWbISW4GqL0c6P5MVYp3m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:31:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqKdXjCLLUBzcDMJU82QTfWbISW4GqL0c6P5MVYp3m4="
+        }
+      ]
+    },
+    {
+      "Route": "upload/eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.d7jyoak75g.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d7jyoak75g"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.png",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\eb218a8c-304a-4bd5-9b13-5fa882ff88e5_01913ae458d7ca6a166870d1a4a8deff.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uRVQVODTe44dywotKDSYAkXRJd8ersuSvOi0gNPauTk="
+        }
+      ]
+    },
+    {
+      "Route": "upload/fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.nwylusxv3q.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cb5vhoax4PGxyqDkxMi0u/nFCaYNmfuqjT5dQJnwAic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:13:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwylusxv3q"
+        },
+        {
+          "Name": "label",
+          "Value": "upload/fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cb5vhoax4PGxyqDkxMi0u/nFCaYNmfuqjT5dQJnwAic="
+        }
+      ]
+    },
+    {
+      "Route": "upload/fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.webp",
+      "AssetFile": "C:\\Handesaim\\שנה ב\\C#\\Bll\\WebApplication1\\wwwroot\\upload\\fba8fd3d-f62d-4f7b-8be5-2610d69b0553_b7.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cb5vhoax4PGxyqDkxMi0u/nFCaYNmfuqjT5dQJnwAic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:13:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cb5vhoax4PGxyqDkxMi0u/nFCaYNmfuqjT5dQJnwAic="
+        }
+      ]
+    }
+  ]
+}

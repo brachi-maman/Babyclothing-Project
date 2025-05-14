@@ -1,0 +1,21 @@
+<div class="sizes-table-container">
+  <h2>טבלת מידות לתינוקות</h2>
+  <table class="baby-sizes-table">
+    <thead>
+      <tr>
+        <th>גיל</th>
+        <th>משקל</th>
+        <th>גובה</th>
+      </tr>
+    </thead>
+    <tbody>
+     @for(s of sizes; track s.age) { 
+      <tr> 
+        <td>{{ s.age }}</td>
+        <td>{{ s.weight }}</td>
+        <td>{{ s.height }}</td>
+      </tr>
+  }
+    </tbody>
+  </table>
+</div>

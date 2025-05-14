@@ -1,0 +1,34 @@
+C:\Users\moshi\Desktop\Bll\Ibll\bin\Debug\net8.0\Ibll.deps.json
+C:\Users\moshi\Desktop\Bll\Ibll\bin\Debug\net8.0\Ibll.runtimeconfig.json
+C:\Users\moshi\Desktop\Bll\Ibll\bin\Debug\net8.0\Ibll.dll
+C:\Users\moshi\Desktop\Bll\Ibll\bin\Debug\net8.0\Ibll.pdb
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.csproj.AssemblyReference.cache
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.AssemblyInfoInputs.cache
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.AssemblyInfo.cs
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.csproj.CoreCompileInputs.cache
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.dll
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\refint\Ibll.dll
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.pdb
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.genruntimeconfig.cache
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\ref\Ibll.dll
+C:\Users\moshi\Desktop\Bll\Ibll\bin\Debug\net8.0\Dto.dll
+C:\Users\moshi\Desktop\Bll\Ibll\bin\Debug\net8.0\Dto.pdb
+C:\Users\moshi\Desktop\Bll\Ibll\obj\Debug\net8.0\Ibll.csproj.Up2Date
+C:\Handesaim\שנה ב\C#\Bll\Ibll\bin\Debug\net8.0\Ibll.deps.json
+C:\Handesaim\שנה ב\C#\Bll\Ibll\bin\Debug\net8.0\Ibll.runtimeconfig.json
+C:\Handesaim\שנה ב\C#\Bll\Ibll\bin\Debug\net8.0\Ibll.dll
+C:\Handesaim\שנה ב\C#\Bll\Ibll\bin\Debug\net8.0\Ibll.pdb
+C:\Handesaim\שנה ב\C#\Bll\Ibll\bin\Debug\net8.0\Dto.dll
+C:\Handesaim\שנה ב\C#\Bll\Ibll\bin\Debug\net8.0\Dto.pdb
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.csproj.AssemblyReference.cache
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.AssemblyInfoInputs.cache
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.AssemblyInfo.cs
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.csproj.CoreCompileInputs.cache
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.csproj.Up2Date
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.dll
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\refint\Ibll.dll
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.pdb
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\Ibll.genruntimeconfig.cache
+C:\Handesaim\שנה ב\C#\Bll\Ibll\obj\Debug\net8.0\ref\Ibll.dll

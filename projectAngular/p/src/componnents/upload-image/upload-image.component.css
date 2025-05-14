@@ -1,0 +1,24 @@
+.image-container {
+    text-align: center;
+  }
+  
+  .canvas {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .baby-image {
+    width: 300px; /* גודל לדוגמה */
+    height: auto;
+    display: block;
+  }
+  
+  .cloth-overlay {
+    position: absolute;
+    top: 40%; /* התאמת מיקום הבגד */
+    left: 50%;
+    transform: translate(-50%, -40%);
+    width: 150px; /* גודל לדוגמה */
+    opacity: 0.8;
+  }
+  

@@ -1,0 +1,35 @@
+<div class="product-container">
+  <button class="close-btn">
+    <!-- <button class="close-btn" (click)="goBack()">❌</button> -->
+    <!-- <app-btn value="return" icon="fa-regular fa-arrow-alt-circle-left" (fromB)="goBack()"></app-btn> -->
+    <app-btn value="goBack" icon="fa-solid fa-sign-out-alt" (fromB)="goBack()"></app-btn>
+
+
+  </button>
+  <h2> 👶 Product details:</h2>
+  <div class="card">
+    <div class="card-body">
+      <img [src]="current.imageUrl ? 'https://localhost:7145' + current.imageUrl : 'path/to/default-image.jpg'"
+        alt="{{ current.productName }}" style="width: 100px; height: auto;" />
+      <h4 class="card-title">💰 price: {{ current.price +""| price}} </h4>
+      <h4 class="card-title">❄️ season: {{ current.season }}</h4>
+      <h4 class="card-title">📦 category: {{ current.cName }}</h4>
+
+      <div class="quantity-control">
+        <label for="amount">amount:</label>
+
+        <input type="number" id="amount" appChangeColorByAmount [(ngModel)]="amount" min="0"
+          [max]="current.stockQuantity" placeholder="בחר כמות">
+      </div>
+
+
+      <button class="cart-btn" (click)="addToCart(current, amount)" [disabled]="current.stockQuantity <= 0">
+        <i class="fa-solid fa-shopping-cart"></i>
+        add to cart
+      </button>
+
+
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>

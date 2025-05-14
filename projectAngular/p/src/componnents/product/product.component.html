@@ -1,0 +1,72 @@
+<div class="gif-container">
+  <img src="video.gif" alt="GIF" usemap="#image-map">
+  <map name="image-map">
+  </map>
+</div>
+
+<div class="container">
+  <div class="image-container">
+    <img src="staf.jpg" alt="Staf Image">
+  </div>
+  <div class="text-container">
+    <h1>A New Arrival?</h1>
+    <p>Mazal Tov!</p>
+    <p>Check out our carefully curated baby collection.</p>
+    <p>We are in on the latest trends and styles, and are happy to service you with that knowledge.</p>
+  </div>
+</div>
+
+<div class="new-products">
+  <!-- מחזור כל המוצרים -->
+  @for(p of allProducts; track p.productId){
+  <div class="product-card" (click)="more(p)">
+    <!-- תמונת המוצר -->
+    <img [src]="p.imageUrl ? 'https://localhost:7145' + p.imageUrl : 'path/to/default-image.jpg'"
+      alt="{{ p.productName }}" style="width: 100px; height: auto;" />
+    <div class="product-info">
+      <!-- פרטי המוצר -->
+      <h2>{{ p.productName }}</h2>
+      <p><strong>Price:</strong> {{ p.price }}</p>
+      <p><strong>Company:</strong> {{ p.compName }}</p>
+      <!-- <p><strong>Stock Quantity:</strong> {{ p.stockQuantity }}</p> -->
+      <p><strong>Season:</strong> {{ p.season }}</p>
+      <p><strong>Size:</strong> {{ p.size }}</p>
+      <p><strong>Gender:</strong> {{ p.gender }}</p>
+      <!-- <p><strong>Last Updated:</strong> {{ p.lastUpdated }}</p> -->
+    </div>
+    <!-- <button class="details-btn" (click)="more(p)">More details</button> -->
+
+  </div>
+  }
+</div>
+<footer>
+  <div class="container">
+    <div class="contact-us">
+      <h3>CONTACT US</h3>
+      <!-- <p>Email: peekbaby@gmail.com</p> -->
+      <!-- <p>Phone/Whatsapp: tel:+9720583260321</p> -->
+      <p>Email: <a href="mailto:peekbaby@gmail.com">peekbaby&#64;gmail.com</a></p>
+      <p>Phone/Whatsapp: <a href="tel:+9720583260321">+972 (0) 58 326 0321</a></p>
+    </div>
+    <div class="quick-links">
+      <h3>QUICK LINKS</h3>
+      <ul>
+        <li> <a routerLink="**" class="nav-link">Home</a></li>
+        <li> <a routerLink="/map" class="nav-link">map</a></li>
+        <li> <a routerLink="/cart" class="nav-link">To cart</a></li>
+      </ul>
+    </div>
+    <div class="my-account">
+      <h3>MY ACCOUNT</h3>
+      <ul>
+        <li> <a routerLink="/login" class="nav-link">Login</a></li>
+        <li> <a routerLink="/register" class="nav-link">Register</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="payment-methods">
+  </div>
+  <div class="copyright">
+    <p>&copy; 2024, Peekaboo Baby Boutique Powered by Shopify</p>
+  </div>
+</footer>

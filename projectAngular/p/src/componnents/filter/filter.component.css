@@ -1,0 +1,193 @@
+/* עיצוב כללי */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #ff6f61;
+    margin-top: 20px;
+    font-size: 2.5rem;
+}
+
+label {
+    font-weight: bold;
+    margin: 10px;
+}
+
+select, input[type="range"] {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+.div {
+    background-color: #7b7a7a;
+    width: 80%; /* שינוי רוחב ליותר גמיש */
+    margin: 20px auto; /* יישור למרכז עם ריווח */
+    padding: 15px; /* ריווח פנימי */
+    background-color: white(235, 216, 232); /* צבע הרקע הוורוד שלך */
+    border-radius: 12px; /* פינות מעוגלות יותר */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* הצללה לתחושת עומק */
+    display: flex; /* שימוש ב-flexbox */
+    flex-wrap: wrap; /* עטיפה במידה ואין מקום */
+    gap: 15px; /* רווח בין האלמנטים */
+    justify-content: center; /* יישור למרכז */
+    align-items: center; /* יישור ורטיקלי */
+}
+
+.div label {
+    font-size: 0.9rem; /* גודל טקסט קטן ונעים */
+    font-weight: bold; /* הדגשה לטקסט */
+    color: black; /* צבע לבן לכיתוב */
+    margin-right: 5px; /* ריווח קטן מימין */
+}
+
+.div select,
+.div input[type="range"] {
+    padding: 6px; /* ריווח פנימי */
+    border: 1px solid #ccc; /* מסגרת עדינה */
+    border-radius: 8px; /* פינות מעוגלות */
+    font-size: 0.9rem; /* גודל טקסט נעים */
+    transition: all 0.3s ease; /* אפקט מעבר */
+}
+
+.div select:focus,
+.div input[type="range"]:focus {
+    border-color: #ff5dc8; /* מסגרת בצבע מבליט */
+    box-shadow: 0 0 5px rgba(255, 93, 200, 0.5); /* הילה */
+}
+
+.div button {
+    background-color: #ff5dc8; /* צבע כפתור בולט */
+    color: white; /* טקסט לבן */
+    border: none; /* ללא מסגרת */
+    padding: 8px 15px; /* ריווח פנימי */
+    font-size: 0.9rem; /* גודל טקסט */
+    cursor: pointer; /* סמן לחיץ */
+    border-radius: 8px; /* פינות מעוגלות */
+    transition: background 0.3s ease, transform 0.2s ease; /* אפקט מעבר */
+}
+
+.div button:hover {
+    background-color: #f884f4; /* שינוי צבע בהובר */
+    transform: scale(1.05); /* אפקט גודל */
+}
+
+.out-of-stock {
+    top: 10px;
+    left: 100px;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.8rem;
+  }
+
+.price-range {
+    
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.price-range span {
+    font-weight: bold;
+    font-size: 0.8rem;
+    color: white; /* צבע טקסט */
+}
+
+/* עיצוב רספונסיבי למסכים קטנים */
+@media (max-width: 768px) {
+    .div {
+        flex-direction: column;
+        align-items: stretch;
+    }
+}
+
+button:hover {
+    background-color: #e65b50;
+}
+
+/* עיצוב המוצרים */
+.product-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.product-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+}
+
+.product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+}
+
+.product-info {
+    padding: 15px;
+}
+
+.product-info h3 {
+    margin: 0;
+    color: #333;
+    font-size: 1.2rem;
+}
+
+.product-info p {
+    margin: 5px 0;
+    color: #666;
+    font-size: 1rem;
+}
+
+/* טווח מחירים */
+.price-range {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+}
+
+.price-range span {
+    font-weight: bold;
+}
+
+/* עיצוב רספונסיבי */
+@media (max-width: 768px) {
+    .product-container {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+    h1 {
+        font-size: 2rem;
+    }
+}

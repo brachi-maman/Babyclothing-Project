@@ -1,0 +1,69 @@
+<div class="register-form">
+  <h2>Welcome! 👶 Register Your Account</h2>
+  <form (ngSubmit)="registerC()"  #myForm="ngForm">
+    <div class="form-group">
+      <label for="customerName">🧸 Name:</label>
+      <input type="text" id="customerName" [(ngModel)]="customer.customerName" #userName="ngModel" name="customerName" required placeholder="Enter your name"  pattern="[A-Z]{1}[a-z]{1,7}">
+      @if(userName.invalid &&(userName.touched || userName.dirty))
+      {
+      <p [hidden]="!userName.errors!['required']">שדה חובה</p>
+      <p [hidden]="!userName.errors!['pattern']">שם באנגלית בלבד </p>
+      }
+    </div>
+    <div class="form-group">
+      <label for="email">📧 Email:</label>
+      <input type="email" id="email" [(ngModel)]="customer.email" name="email" required  placeholder="Enter your email"
+      #mail="ngModel"
+                pattern="[A-Za-z.0-9]+@(gmail.com|co.il|net)">
+                @if(mail.invalid &&(mail.touched || mail.dirty))
+                {
+                <p >מייל לא תקין</p>
+                }
+    </div>
+    <div class="form-group">
+      <label for="phonePrefix">📞 Phone:</label>
+      <div class="phone-input">
+        <!-- תיבת בחירה לקידומת -->
+        <select id="phonePrefix" [(ngModel)]="phonePrefix" name="phonePrefix" required #validPrefix="ngModel">
+          <!-- <option value="" disabled selected></option> -->
+          @for (prefix of phonePrefixes; track phonePrefix) {
+          <option [value]="prefix">{{ prefix }}</option>}
+        </select>
+    
+        <!-- תיבת קלט להמשך מספר -->
+        <input type="text" id="phoneNumber" [(ngModel)]="phoneNumber" name="phoneNumber" maxlength="7"
+          pattern="^[0-9]{7}$" required #validNumber="ngModel"
+          placeholder="input seven digits">
+    
+      </div>
+    
+      <!-- הודעות שגיאה -->
+      @if (validPrefix.invalid && (validPrefix.touched || validPrefix.dirty)) {
+        <p class="inValid-feedback">בחר קידומת</p>
+      }
+      @if (validNumber.invalid && (validNumber.touched || validNumber.dirty)) {
+        <p class="inValid-feedback" [hidden]="!validNumber.errors!['required']">שדה חובה</p>
+        <p class="inValid-feedback" [hidden]="!validNumber.errors!['pattern']">הכנס בדיוק 7 ספרות</p>
+      }
+    </div>
+    
+    <div class="form-group">
+      <label for="birthDate">🎂 Birth Date:</label>
+      <input type="date" id="birthDate" [(ngModel)]="customer.birthDate" name="birthDate" required>
+    </div>
+    <div class="form-group">
+      <label for="passwordCustomer">🔑 Password:</label>
+      <input type="password" id="passwordCustomer" [(ngModel)]="customer.passwordCustomer" placeholder="Create a password" name="passwordCustomer"  
+      maxlength="9"  #validTz="ngModel" 
+      required pattern="^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[\W_])(?!.*[\u0590-\u05FF]).{9}$">
+      
+      @if( validTz.invalid && (validTz.touched || validTz.dirty)){
+        <div class="inValid-feedback">
+          <p [hidden]="!validTz.errors!['required']">שדה חובה</p>
+            <p [hidden]="!validTz.errors!['pattern']">קוד לא תקין. הקוד צריך לכלול בדיוק 9 תווים, כולל מספרים, אותיות אנגליות גדולות וקטנות ותו מיוחד.</p>
+        </div>
+      }
+    </div>
+    <button type="submit" class="submit-btn" [disabled]="!myForm.valid">Register</button>
+  </form>
+</div>
